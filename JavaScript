@@ -1,0 +1,3 @@
+var myName = 'Lotta Kuusijärvi';
+
+var myAge = 22;
